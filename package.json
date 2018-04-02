@@ -1,0 +1,19 @@
+{
+  "name": "rf-converter-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "webpack-parent-class": "git://github.com/anatoly314/webpack-parent-class.git"
+  },
+  "devDependencies": {
+    "source-map-support": "^0.5.3",
+    "uglifyjs-webpack-plugin": "^1.2.2",
+    "webpack": "^3.11.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
